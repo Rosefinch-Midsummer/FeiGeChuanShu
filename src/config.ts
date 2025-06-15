@@ -1,3 +1,3 @@
 export default {
-  BASE_URL: 'https://paste.lius.me',
+  BASE_URL: 'https://feige.setsailtowardstianhan.ip-ddns.com',
 };
